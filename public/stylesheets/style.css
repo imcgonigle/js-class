@@ -9,3 +9,16 @@ a {
 .text-accent {
   color: #f7df1e;
 }
+
+.student {
+  padding: 3rem;
+  text-align: center;
+}
+
+.avatar {
+  background-color: #212529;
+  height: 120px;
+  max-height: 120px;
+  width: 120px;
+  max-width: 120px;
+}
